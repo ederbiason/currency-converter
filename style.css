@@ -1,0 +1,106 @@
+@charset "UTF-8";
+
+body {
+    font-family: "Roboto Mono", monospace;
+    min-height: 400px;
+    background-image: url("https://www.esportsbettingtipster.com/wp-content/uploads/2020/05/csgo-money.jpg");
+    background-color: #000000;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.container {
+    text-align: center;
+    padding: 20px;
+    height: 100vh;
+}
+  
+.page-title {
+    color: #ffffff;
+    margin: 0 0 5px;
+}
+  
+.page-subtitle {
+    color: #ffffff;
+    margin-top: 5px;
+}
+  
+.page-logo {
+    width: 200px;
+    position: absolute;
+    top: 10px;
+    left: 10px;
+}
+  
+.alura-logo {
+    width: 40px;
+    position: absolute;
+    top: 10px;
+    right: 10px;
+}
+  
+input {
+    margin: 8px;
+    padding: 6px;
+    border-radius: 5px;
+    border: 0;
+    display: inline-block;
+    text-align: center;
+    vertical-align: middle
+}
+
+table {
+    margin: auto;
+}
+  
+label {
+    color: white;
+    vertical-align: middle
+}
+  
+button {
+    margin-top: 12px;
+    padding: 4px 8px;
+    border-radius: 10px;
+    background: #ffffff;
+    border: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #FADA06;
+    color: black;
+    font-weight: bolder;
+    border: 2px solid #FADA06;
+}
+
+#btnInvert {
+    padding: 6px 10px;
+    border-radius: 5px;
+    font-weight: bold;
+}
+
+button:hover{
+    border: 2px solid white;
+}
+ 
+table.moeda, td {
+  text-align: left;
+  padding-top: 10px;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-bottom: 10px;
+  border-radius: 15px;
+}
+
+td p {
+    margin-top: 5px;
+    color: white;
+}
+
+h2 {
+    color: #ffffff;
+    font-size: 30px;
+}
+
+small{
+    color: white;
+}
