@@ -43,6 +43,8 @@ I've participated of a programming event from Aura, where we did a lot mini proj
 ## :art: Layout
 <div align="center"; diplay= "flex"; flex-direction= "row">
     <img src="https://media.giphy.com/media/nGMAkP5B0aFtzx5d0A/giphy.gif">
+
+    For a better view of the project, access this CodePen: https://codepen.io/eder-biason/full/NWvgbgJ
 </div>
 
 ## :memo: License
