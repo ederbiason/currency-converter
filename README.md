@@ -2,7 +2,7 @@
     <img alt="banner" src="https://user-images.githubusercontent.com/82395795/146233907-1140adfd-d481-4534-a37e-52bb729ce324.png">
 </h1>
 
-<h1 align="center">Star Wars Dashboard ⭐🛸</h1>
+<h1 align="center">Currency Converter 🔃💰</h1>
 <h2 align="center">Status: ✔️ Finished ✔️</h2>
 
 <p align="center">
